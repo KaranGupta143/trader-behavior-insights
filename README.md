@@ -101,3 +101,4 @@ Perform Granger causality tests between sentiment and performance
 🧑‍💻 Author
 
 Developed by [Karan Gupta](https://github.com/KaranGupta143) as part of an academic assignment/project. 
+
